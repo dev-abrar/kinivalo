@@ -1,0 +1,32 @@
+[17-Dec-2023 11:21:57 UTC] PHP Warning:  require(/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php): Failed to open stream: No such file or directory in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[17-Dec-2023 11:21:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kinivalo/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/kinivalo/public_html/vendor/composer/autoload_real.php(45): {closure}('03cd5cbd1c6d076...', '/home/kinivalo/...')
+#1 /home/kinivalo/public_html/vendor/autoload.php(25): ComposerAutoloaderInit03823ae6cb0f932c483313acea74d6d3::getLoader()
+#2 /home/kinivalo/public_html/public/index.php(34): require('/home/kinivalo/...')
+#3 {main}
+  thrown in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[18-Dec-2023 12:34:59 UTC] PHP Warning:  require(/home/kinivalo/public_html/app/Http/Helper/Common.php): Failed to open stream: No such file or directory in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[18-Dec-2023 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kinivalo/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/kinivalo/public_html/vendor/composer/autoload_real.php(45): {closure}('03cd5cbd1c6d076...', '/home/kinivalo/...')
+#1 /home/kinivalo/public_html/vendor/autoload.php(25): ComposerAutoloaderInit03823ae6cb0f932c483313acea74d6d3::getLoader()
+#2 /home/kinivalo/public_html/public/index.php(34): require('/home/kinivalo/...')
+#3 {main}
+  thrown in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[18-Dec-2023 12:36:01 UTC] PHP Warning:  require(/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php): Failed to open stream: No such file or directory in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[18-Dec-2023 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kinivalo/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/kinivalo/public_html/vendor/composer/autoload_real.php(45): {closure}('03cd5cbd1c6d076...', '/home/kinivalo/...')
+#1 /home/kinivalo/public_html/vendor/autoload.php(25): ComposerAutoloaderInit03823ae6cb0f932c483313acea74d6d3::getLoader()
+#2 /home/kinivalo/public_html/public/index.php(34): require('/home/kinivalo/...')
+#3 {main}
+  thrown in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[24-Dec-2023 07:56:07 UTC] PHP Warning:  require(/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php): Failed to open stream: No such file or directory in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
+[24-Dec-2023 07:56:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kinivalo/public_html/vendor/composer/../../app/Http/Helper/Common.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kinivalo/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/kinivalo/public_html/vendor/composer/autoload_real.php(45): {closure}('03cd5cbd1c6d076...', '/home/kinivalo/...')
+#1 /home/kinivalo/public_html/vendor/autoload.php(25): ComposerAutoloaderInit03823ae6cb0f932c483313acea74d6d3::getLoader()
+#2 /home/kinivalo/public_html/public/index.php(34): require('/home/kinivalo/...')
+#3 {main}
+  thrown in /home/kinivalo/public_html/vendor/composer/autoload_real.php on line 41
